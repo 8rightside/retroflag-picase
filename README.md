@@ -7,7 +7,6 @@ Emulation Station installed.
 
 Turn switch "SAFE SHUTDOWN" to ON.
 
-For RetroPie:
 
 1. Make sure internet connected.
 2. Make sure python3 installed.
