@@ -1,6 +1,6 @@
 # retroflag-gpi case (gpi case only)
 
-Fork of the retroflag script to enable it to work with raspbian without
+Fork of the retroflag script to enable it to work with Raspbian without
 Emulation Station installed.
 
 ## retroflag-picase (nespi+, superpi, megapi case)
