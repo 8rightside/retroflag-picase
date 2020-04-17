@@ -1,4 +1,4 @@
-# Retro-Flag PiCase safe shutdown
+# Retro-Flag PiCase Safe Shutdown
 
 Fork of the retroflag script to enable it to work with Raspbian without
 Emulation Station installed.
