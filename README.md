@@ -1,4 +1,4 @@
-# retroflag-gpi case (gpi case only)
+# Retro-Flag PiCase safe shutdown
 
 Fork of the retroflag script to enable it to work with Raspbian without
 Emulation Station installed.
@@ -6,7 +6,6 @@ Emulation Station installed.
 ## retroflag-picase (nespi+, superpi, megapi case)
 
 Turn switch "SAFE SHUTDOWN" to ON.
-
 
 1. Make sure internet connected.
 2. Make sure python3 installed.
